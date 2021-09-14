@@ -1,0 +1,18 @@
+<?php
+  require_once('fns-common.php');
+  require_once('fns-db.php');
+  require_once('fns-user.php');
+  require_once('fns-member.php');
+  require_once('fns-log.php');
+  require_once('fns-mail.php');
+  require_once('fns-pwd.php');
+  require_once('fns-message.php');
+  require_once('fns-club.php');
+  require_once('fns-event.php');
+  require_once('fns-facility.php');
+  require_once('fns-trans.php');
+  require_once('fns-search.php');
+  require_once('fns-vcard.php');
+  require_once('fns-qrcode.php');
+  require_once("fns-backup.php");
+  require_once("fns-weixin.php");
