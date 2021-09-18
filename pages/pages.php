@@ -1,0 +1,14 @@
+<?php
+  require_once("page-basic.php");
+  require_once("page-club.php");
+  require_once("page-log.php");
+  require_once("page-home.php");
+  require_once("page-forget.php");
+  require_once("page-setup.php");
+  require_once("page-user.php");
+  require_once("page-register.php");
+  require_once("page-system.php");
+  require_once("page-people.php");
+  require_once("page-search.php");
+  require_once("page-facility.php");
+  require_once("page-restore.php");
